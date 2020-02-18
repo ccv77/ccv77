@@ -2,9 +2,22 @@
   "name": "ccv77-11ty",
   "version": "0.0.1",
   "main": "index.js",
-  "scripts": {
-
-  },
   "author": "dnikku",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "npx gulp default",
+    "clean": "npx gulp clean",
+    "serve": "npx gulp serve",
+    "debug": "DEBUG=Eleventy*  npx gulp default"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "moment": "^2.24.0",
+    "markdown-it": "^8.4.1",
+    "markdown-it-anchor": "^5.0.2",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-serve": "^1.4.0",
+    "gulp-shell": "^0.6.5"
+  }
 }
