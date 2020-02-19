@@ -10,12 +10,11 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({
     "src/assets/images": "images/",
-    "src/scss/print.css": "css/print.css" 
   });
 
 
-  eleventyConfig.addCollection("projects_en", function(collection) {
-    return collection.getFilteredByGlob("src/en/projects/*.md");
+  eleventyConfig.addCollection("project_cabana", function(collection) {
+    return collection.getFilteredByGlob("**/*.png");
   });
 };
 

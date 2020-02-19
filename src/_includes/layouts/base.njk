@@ -34,7 +34,7 @@
         {{ content | safe }} 
   
         {% if page.url != '/' %}
-        <a href="{{ '/' | url }}">
+        <a href="{{ '/' + locale | url }}">
           <h2>Back</h2>
         </a>
         {% endif %}
