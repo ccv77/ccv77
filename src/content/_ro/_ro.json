@@ -1,6 +1,6 @@
 {
   "layout": "layouts/base.njk",
-  "locale": "",
+  "lang": "ro",
   "metaTitle": "Pagina lui Ciprian",
   "metaDescription": "Descriere in romana"
 }

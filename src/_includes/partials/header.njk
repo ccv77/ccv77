@@ -8,5 +8,21 @@
           {{ site.title }}
         </h1>
       </a>
+
+      <h3>
+        <ul id="lang">
+        {% for lgg in site.languages %}
+        {% if lgg.code == lang %}
+          <li class="active">
+        {% else %}
+          <li>
+        {% endif %}
+            <a href="{{ '/content/' + lgg.path }}">
+              <img src="{{ lgg.image }}" alt="{{ lgg.label}}" />
+            </a>
+          </li>
+        {% endfor %}
+        </ul>
+      </h3>
     </div>
   </header>

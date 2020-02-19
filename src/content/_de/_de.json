@@ -1,6 +1,6 @@
 {
   "layout": "layouts/base.njk",
-  "locale": "",
+  "lang": "de",
   "metaTitle": "Ciprian's Website",
   "metaDescription": "Description in english"
 }

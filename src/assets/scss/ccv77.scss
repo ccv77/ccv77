@@ -1,0 +1,24 @@
+@import "architect";
+
+/* lang */
+
+ul#lang {
+  li {
+    display: inline;
+
+    img {
+      object-fit: cover;
+      width: 25px;
+      height: 15px;
+    }
+  }
+
+  li.active a {
+    cursor: default;
+  }
+
+  li.active img {
+    filter: grayscale(50%);
+    border: 1px solid whitesmoke;
+  }
+}
