@@ -1,23 +1,22 @@
 
-Bună prietene, eu sunt Ciprian.
+Hi everyone, I am Ciprian.
 
-Acest site este o introducere a mea, a proiectelor din trecut / viitor și a momentelor importante din viața mea surprinse în fotografii.
+This site is an introduction of me, past/future projects and important moments of my life captured in photos.
 
-### [Pozele mele](./photos/)
+### [My Photos](./photos/)
 
 
-### Proiectele mele
+### My Projects
 
-1.  [Cabana mea](./projects/cabana/)
+1.  [My Chalet](./projects/cabana/)
 1.  [Uterus](./projects/uterus/)
-1.  [Camera Andrea](./projects/camera_andrea/)
-1.  [Renovarea garajului](./projects/renovare_garaj/)
-1.  [Piscina](./projects/piscina/)
+1.  [Andrea's room](./projects/camera_andrea/)
+1.  [Garage renovation](./projects/renovare_garaj/)
+1.  [Pool](./projects/piscina/)
 
-1.  Inspecţia şi întărirea izolaţie casei
-1.  Tuia
-1.  Reparat şi vopsit soclul şi decoraţia casa
-1.  Reparat Audi(fără numerele de ordine)
+1.  Inspection and strengthening of the insulation of the house
+1.  Thuja
+1.  Repaired and painted the house sill and decoration
+1.  Repaired Audi (no order numbers)
 
-### [CV meu](./my-cv/)
-<!-- ăîşţâ ȘȚÎ -->
+### [My CV](./my-cv/)
