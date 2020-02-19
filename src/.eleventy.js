@@ -9,7 +9,8 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy({
-    "src/assets/images": "images" 
+    "src/assets/images": "images/",
+    "src/scss/print.css": "css/print.css" 
   });
 
 

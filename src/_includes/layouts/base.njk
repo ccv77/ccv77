@@ -6,7 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{{ metaTitle }}</title>
 
-  <link rel="stylesheet" href="/css/architect.css">
+  <link rel="stylesheet" href="/css/architect.css?v=10" media="screen" type="text/css">
+  <link rel="stylesheet" href="/css/print.css" media="print" type="text/css">
 
   <!-- open graph -->
   <meta property="og:type" content="article">
@@ -23,8 +24,25 @@
   <meta name="twitter:image" content="{{ metaImage }}">
 </head>
 <body>
+
   {% include "partials/header.njk" %}
-  {% block content %}{% endblock %}
+
+  <div id="content-wrapper">
+    <div class="inner clearfix">
+      <section id="main-content">
+  
+        {{ content | safe }} 
+  
+        {% if page.url != '/' %}
+        <a href="{{ '/' | url }}">
+          <h2>Back</h2>
+        </a>
+        {% endif %}
+      </section>
+    </div>
+  </div>
+
   {% include "partials/footer.njk" %}
+
 </body>
 </html>

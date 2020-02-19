@@ -32,7 +32,7 @@ Compile SCSS files to CSS
 */
 gulp.task("compile-scss", function() {
   return gulp
-    .src(`${srcDir}/scss/architect.scss`)
+    .src([`${srcDir}/scss/architect.scss`, `${srcDir}/scss/print.scss`])
     .pipe(
       sass({
         outputStyle: "compressed"
