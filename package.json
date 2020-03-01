@@ -12,12 +12,14 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
-    "moment": "^2.24.0",
-    "markdown-it": "^8.4.1",
-    "markdown-it-anchor": "^5.0.2",
+    "exif": "^0.6.0",
+    "fast-glob": "^3.2.2",
     "gulp": "^4.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-serve": "^1.4.0",
-    "gulp-shell": "^0.6.5"
+    "gulp-shell": "^0.6.5",
+    "markdown-it": "^8.4.1",
+    "markdown-it-anchor": "^5.0.2",
+    "moment": "^2.24.0"
   }
 }

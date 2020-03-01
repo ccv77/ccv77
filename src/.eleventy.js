@@ -8,15 +8,12 @@ module.exports = function(eleventyConfig) {
     return moment(date).format(format);
   });
 
-  eleventyConfig.addNunjucksFilter("jsonify", function(value) {
+  eleventyConfig.addNunjucksFilter("stringify", function(value) {
     return JSON.stringify(value);
   });
 
   eleventyConfig.addPassthroughCopy({
     "src/assets/images": "images/"
   });
-
-  eleventyConfig.addCollection("project_cabana", function(collection) {
-    return collection.getFilteredByGlob("**/*.png");
-  });
+  eleventyConfig.addPassthroughCopy("src/content/**/*.jpg");
 };
