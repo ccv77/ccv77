@@ -17,8 +17,8 @@
         {% else %}
           <li>
         {% endif %}
-            <a href="{{ '/content/' + lgg.path }}">
-              <img src="{{ lgg.image }}" alt="{{ lgg.label}}" />
+            <a href="{{ ('/content/' + lgg.path) | url }}">
+              <img src="{{ lgg.image | url }}" alt="{{ lgg.label}}" />
             </a>
           </li>
         {% endfor %}

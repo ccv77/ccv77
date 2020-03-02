@@ -10,11 +10,11 @@
   <script>
     var lang = navigator.language || navigator.userLanguage;
     if (lang.indexOf('ro') == 0)
-      window.location = '/content/_ro/';
+      window.location = "{{ '/content/_ro/' | url }}";
     else if (lang.indexOf('de') == 0)
-      window.location = '/content/_de/'
+      window.location = "{{ '/content/_de/' | url }}";
     else
-      window.location = '/content/';
+      window.location = "{{ '/content/' | url }}";
   </script>
 </body>
 

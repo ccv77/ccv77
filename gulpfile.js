@@ -3,9 +3,8 @@ var sass = require("gulp-sass");
 var shell = require("gulp-shell");
 var fs = require("fs-extra");
 
-// what goes where?
-var srcDir = "./src";
-var destDir = "./_site";
+const srcDir = "./src",
+  destDir = "./site";
 
 /*
  Clean the site build directory
@@ -21,7 +20,7 @@ gulp.task("clean", function(done) {
 gulp.task(
   "generate",
   shell.task(
-    `eleventy --config=${srcDir}/.eleventy.js --input=${srcDir} --output=${destDir}`
+    `eleventy --config=${srcDir}/.eleventy.js --input=${srcDir} --output=${destDir} --pathprefix=${destDir}`
   )
 );
 
