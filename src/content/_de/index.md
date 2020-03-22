@@ -17,6 +17,6 @@ Diese Seite ist eine Einführung in vergangene / zukünftige Projekte und wichti
 1.  Inspektion und Verstärkung der Dämmung des Hauses
 1.  Thuja
 1.  Reparierte und malte die Hausschwelle und Dekoration
-1.  Reparierter Audi (keine Bestellnummern)
+1.  Reparierter Audi
 
 ### [Mein Lebenslauf](./my-cv/)

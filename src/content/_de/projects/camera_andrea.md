@@ -4,4 +4,4 @@ project: camera_andrea
 
 # Proiectul Camera Andrea
 
-Iată ce a ieşit ...
+Außbau der Decke und einer neue Decke, sterker und zirka 10 cm tiefer eingebaut. 

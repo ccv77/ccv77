@@ -9,7 +9,8 @@ module.exports = {
       label: "English",
       path: "",
       image:
-        "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        //"https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1920px-Flag_of_the_United_Kingdom.svg.png"
     },
     {
       code: "ro",
