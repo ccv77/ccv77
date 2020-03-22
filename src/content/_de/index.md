@@ -13,9 +13,9 @@ Diese Seite ist eine Einführung in vergangene / zukünftige Projekte und wichti
 1.  [Andrea's Zimmer](./projects/camera_andrea/)
 1.  [Garagenrenovierung](./projects/renovare_garaj/)
 1.  [Pool](./projects/piscina/)
-
-1.  Inspektion und Verstärkung der Dämmung des Hauses
-1.  Thuja
+1.  [Inspektion und Verstärkung der Dämmung des Hauses](./projects/renovare_casa/)
+1.  [Thuja](./projects/taiat_tuia/)
+ 
 1.  Reparierte und malte die Hausschwelle und Dekoration
 1.  Reparierter Audi
 

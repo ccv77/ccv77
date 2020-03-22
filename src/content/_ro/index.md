@@ -14,8 +14,8 @@ Acest site este o introducere a mea, a proiectelor din trecut / viitor și a mom
 1.  [Renovarea garajului](./projects/renovare_garaj/)
 1.  [Piscina](./projects/piscina/)
 
-1.  Inspecţia şi întărirea izolaţie casei
-1.  Tuia
+1.  [Inspecţia şi întărirea izolaţie casei](./projects/renovare_casa/)
+1.  [Taiat tuia](./projects/taiat_tuia/)
 1.  Reparat şi vopsit soclul şi decoraţia casa
 1.  Reparat Audi(fără numerele de ordine)
 

@@ -14,8 +14,8 @@ This site is an introduction of me, past/future projects and important moments o
 1.  [Garage renovation](./projects/renovare_garaj/)
 1.  [Pool](./projects/piscina/)
 
-1.  Inspection and strengthening of the insulation of the house
-1.  Thuja
+1.  [Inspection and strengthening of the insulation of the house](./projects/renovare_casa/)
+1.  [Thuja](./projects/taiat_tuia/)
 1.  Repaired and painted the house sill and decoration
 1.  Repaired Audi (no order numbers)
 
