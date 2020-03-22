@@ -1,4 +1,4 @@
-# CV meu
+# My CV
 
 ![Afrika](../../images/afrika.png)
 
