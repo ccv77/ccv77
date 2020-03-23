@@ -1,4 +1,8 @@
+---
+project: photos
+---
 
-# Meine Fotos
+# My Photos
+---
 
-tbd.
+## Dupa acest text vin automat pozele din sub-folder 'photos/img'
