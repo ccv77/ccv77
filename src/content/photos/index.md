@@ -1,8 +1,13 @@
+---
+project: photos
+---
 
 # My Photos
 
-* eu in clasa a-4-a ![not-found](./img/01.jpg)
+## Aici sunt poze manual adaugate
 
-{% for image in projects[project].images %}
-![Image]({{ image.url | url }})
-{% endfor %}
+- eu in clasa a-4-a ![not-found](./img/01.jpg)
+
+---
+
+## Dupa acest text vin automat pozele din sub-folder 'photos/img'

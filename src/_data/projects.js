@@ -14,6 +14,12 @@ function listImages(dir) {
 
 const projects = {};
 
+// inject photos as project
+projects["photos"] = {
+  images: listImages(`src/content/photos/img/*.jpg`)
+};
+console.log(` Project : photos (${projects["photos"].images.length} images)`);
+
 readdirSync("src/content/projects", { withFileTypes: true })
   .filter(f => f.isDirectory())
   .forEach(f => {
