@@ -18,6 +18,7 @@ Acest site este o introducere a mea, a proiectelor din trecut / viitor și a mom
 1.  [Taiat tuia](./projects/taiat_tuia/)
 1.  Reparat şi vopsit soclul şi decoraţia casa
 1.  Reparat Audi(fără numerele de ordine)
+1.  [Schimbat piscina](./projects/schimbat_piscina/)
 
 ### [CV meu](./my-cv/)
 <!-- ăîşţâ ȘȚÎ -->
