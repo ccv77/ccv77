@@ -15,7 +15,7 @@ This site is an introduction of me, past/future projects and important moments o
 1.  [Garage renovation 2018](./projects/renovare_garaj/)
 1.  [Pool 2018](./projects/piscina/)
 1.  [Repairing and painting the plinth of the house and put up Christmas lights 2017-2018](./projects/reparat_soclu/)
-1.  Repaired Audi 2018
+1.  [Repairing Audi 2018](./projects/reparat_audi/)
 1.  [Andrea's room 2019](./projects/camera_andrea/)
 1.  [Renovation of the firewood warehouse 2022-2023](./projects/renovat_depozit_lemne/)
 1.  [Upgrade Pool 2023](./projects/schimbat_piscina/)

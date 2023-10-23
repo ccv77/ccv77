@@ -15,7 +15,7 @@ Diese Seite ist eine Einführung in vergangene / zukünftige Projekte und wichti
 1.  [Garagenrenovierung 2018](./projects/renovare_garaj/)
 1.  [Den Pool 2018](./projects/piscina/)
 1.  [Sockelputz erneuern und Weihnachtsbeleuchtung anbringen 2017-2018](./projects/reparat_soclu/)
-1.  Reparierter Audi 2018
+1.  [Audi-Reparatur 2018](./projects/reparat_audi/)
 1.  [Andrea's Zimmer 2019](./projects/camera_andrea/)
 1.  [Umbau des Brennholzlagers 2022-2023](./projects/renovat_depozit_lemne/)
 1.  [Pool Umbau 2023](./projects/schimbat_piscina/)

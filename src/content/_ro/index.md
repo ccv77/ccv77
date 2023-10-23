@@ -15,7 +15,7 @@ Acest site este o introducere a mea, a proiectelor din trecut / viitor și a mom
 1.  [Renovarea garajului 2018](./projects/renovare_garaj/)
 1.  [Piscina 2018](./projects/piscina/)
 1.  [Reparat şi vopsit soclul şi montare instalaţiei luminoase de Crăciun 2017-2018](./projects/reparat_soclu/)
-1.  Reparat Audi 2018
+1.  [Reparat Audi 2018](./projects/reparat_audi/)
 1.  [Camera Andrea 2019](./projects/camera_andrea/)
 1.  [Reconstituirea depozitului de lemne 2022-2023](./projects/renovat_depozit_lemne/)
 1.  [Schimbat piscina 2023](./projects/schimbat_piscina/)
