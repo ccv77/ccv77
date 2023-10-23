@@ -20,6 +20,7 @@ Acest site este o introducere a mea, a proiectelor din trecut / viitor și a mom
 1.  Reparat Audi(fără numerele de ordine)
 1.  [Schimbat piscina](./projects/schimbat_piscina/)
 1.  [Reconstituirea depozitului de lemne 2022-2023](./projects/renovat_depozit_lemne/)
+1.  [Construcţia cadru metalic pentru remorcuţa 2023](./projects/remorcuta_cadru/)
 
 ### [CV meu](./my-cv/)
 <!-- ăîşţâ ȘȚÎ -->

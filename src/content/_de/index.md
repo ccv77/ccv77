@@ -20,5 +20,6 @@ Diese Seite ist eine Einführung in vergangene / zukünftige Projekte und wichti
 1.  Reparierter Audi
 1.  [Pool Umbau](./projects/schimbat_piscina/)
 1.  [Umbau des Brennholzlagers 2022-2023](./projects/renovat_depozit_lemne/)
+1.  [Anhänger Spriegelbau 2023](./projects/remorcuta_cadru/)
 
 ### [Mein Lebenslauf](./my-cv/)

@@ -20,5 +20,6 @@ This site is an introduction of me, past/future projects and important moments o
 1.  Repaired Audi (no order numbers)
 1.  [Upgrade Pool](./projects/schimbat_piscina/)
 1.  [Renovation of the firewood warehouse 2022-2023](./projects/renovat_depozit_lemne/)
+1.  [Construction of the Tarpaulin metal frame 2023](./projects/remorcuta_cadru/)
 
 ### [My CV](./my-cv/)
