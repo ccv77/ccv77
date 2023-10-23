@@ -16,7 +16,7 @@ Diese Seite ist eine Einführung in vergangene / zukünftige Projekte und wichti
 1.  [Inspektion und Verstärkung der Dämmung des Hauses](./projects/renovare_casa/)
 1.  [Thuja](./projects/taiat_tuia/)
  
-1.  Reparierte und malte die Hausschwelle und Dekoration
+1.  [Sockelputz erneuern und Weihnachtsbeleuchtung anbringen 2017-2018](./projects/reparat_soclu/)
 1.  Reparierter Audi
 1.  [Pool Umbau](./projects/schimbat_piscina/)
 1.  [Umbau des Brennholzlagers 2022-2023](./projects/renovat_depozit_lemne/)

@@ -16,7 +16,7 @@ Acest site este o introducere a mea, a proiectelor din trecut / viitor și a mom
 
 1.  [Inspecţia şi întărirea izolaţie casei](./projects/renovare_casa/)
 1.  [Taiat tuia](./projects/taiat_tuia/)
-1.  Reparat şi vopsit soclul şi decoraţia casa
+1.  [Reparat şi vopsit soclul şi montare instalaţiei luminoase de Crăciun 2017-2018](./projects/reparat_soclu/)
 1.  Reparat Audi(fără numerele de ordine)
 1.  [Schimbat piscina](./projects/schimbat_piscina/)
 1.  [Reconstituirea depozitului de lemne 2022-2023](./projects/renovat_depozit_lemne/)

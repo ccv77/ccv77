@@ -16,7 +16,7 @@ This site is an introduction of me, past/future projects and important moments o
 
 1.  [Inspection and strengthening of the insulation of the house](./projects/renovare_casa/)
 1.  [Thuja](./projects/taiat_tuia/)
-1.  Repaired and painted the house sill and decoration
+1.  [Repairing and painting the plinth of the house and put up Christmas lights 2017-2018](./projects/reparat_soclu/)
 1.  Repaired Audi (no order numbers)
 1.  [Upgrade Pool](./projects/schimbat_piscina/)
 1.  [Renovation of the firewood warehouse 2022-2023](./projects/renovat_depozit_lemne/)
